@@ -10,6 +10,6 @@ class RebaseFaker
 
     def self.random_email
         name = NAMES.sample
-        "#{name.gsub!(' ', '.').downcase!}@rebase.com.br"
+        "#{name.gsub(' ', '.').downcase}@rebase.com.br"
     end
 end
