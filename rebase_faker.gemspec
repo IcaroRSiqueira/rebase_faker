@@ -8,5 +8,7 @@ Gem::Specification.new do |s|
     s.email       = 'icaro.siqueira@rebase.com.br'
     s.homepage    = %q{https://git.campuscode.com.br/icaro.siqueira}
     s.files       = ["lib/rebase_faker.rb"]
-    s.license     = 'MIT'
+    s.add_development_dependency 'bundler', '~> 2.0'
+    s.add_development_dependency 'minitest'
+    s.add_development_dependency 'mocha'
  end

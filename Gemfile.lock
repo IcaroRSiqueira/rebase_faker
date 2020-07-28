@@ -1,0 +1,22 @@
+PATH
+  remote: .
+  specs:
+    rebase_faker (0.0.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minitest (5.14.1)
+    mocha (1.11.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (~> 2.0)
+  minitest
+  mocha
+  rebase_faker!
+
+BUNDLED WITH
+   2.1.4
