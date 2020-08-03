@@ -38,3 +38,11 @@ As dependências para desenvolvimento se encontram no arquivo `rebase_faker.gems
 + Mocha: Stub de testes
 
 Não há dependências para execução.
+
+## Contribuição
++ Faça um "fork" do projeto
++ Crie sua nova branch para alteração (git checkout -b minha-nova-feature)
++ Execute os testes e o rubocop (bundle exec rspec, rubocop)
++ Faça commit das suas alterações (git commit -am 'Added some feature')
++ Faça push à sua branch (git push origin minha-nova-feature)
++ Crie um novo Pull Request
