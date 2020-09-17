@@ -19,6 +19,10 @@ class RebaseFaker
         'Lucas Amaral',
         'Luis Arantes',
         'Kamila Aragao',
+        'Janaina Ferreira',
+        'Patrick Natan',
+        'Fabricio Bezerra',
+        'Mateus Braga',
         'Joao Vale', 
         'Allan Siqueira']
     def self.random_name
